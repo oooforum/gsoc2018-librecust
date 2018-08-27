@@ -1,0 +1,1 @@
+Une extension qui simplifie le processus de numérotation des pages sous LibreOffice/OpenOffice. 
